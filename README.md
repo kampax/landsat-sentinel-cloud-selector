@@ -2,8 +2,8 @@
 
 Google Earth Engine apps for visual selection of cloud-free satellite images with interactive study area definition.
 
-LANDSAT: (https://ee-carlosnavarro.projects.earthengine.app/view/landsat-cloud-selector)
-SENTINEL2: (https://ee-carlosnavarro.projects.earthengine.app/view/sentinel-cloud-selector)
+- LANDSAT: https://ee-carlosnavarro.projects.earthengine.app/view/landsat-cloud-selector
+- SENTINEL2: https://ee-carlosnavarro.projects.earthengine.app/view/sentinel-cloud-selector
 
 ## 🛰️ Applications
 
